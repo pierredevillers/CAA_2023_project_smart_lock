@@ -17,3 +17,9 @@ As part of Cloud and Advanced Analytics class, we designed **The Smart Lock 2.0*
 
 ## 🚀   Deployment 
 ...
+
+## ▶️   Video  
+Click 👉 [here](https://youtu.be/9kISHGS8tyQ) to see the video.
+
+## 📋   LinkedIn Article 
+Click 👉 [here](https://youtu.be/9kISHGS8tyQ) to read our LinkedIn article.
