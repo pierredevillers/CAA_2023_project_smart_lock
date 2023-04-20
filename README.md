@@ -5,3 +5,6 @@
 
 **Team** : Volkswagen <br>
 **Team members** : Vanja Hug, Feryel Ben Rhaiem, and Pierre Devillers
+
+#### This github repository contains the following folders:
+* **Code** : python code of the  
