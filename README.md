@@ -9,5 +9,11 @@
 #### This github repository contains the following folders:
 * **Code** : python code of the project. 
 
-## 🚧  Project Description  
+## 🚧   Project Description  
 As part of Cloud and Advanced Analytics class, we designed **The Smart Lock 2.0** is a tamper detection device that sends an alert to your phone via email and triggers an alarm if someone attempts to move your belongings without your permission. This device is perfect for safety-conscious people who want to protect their valuable items.
+
+## 🤔   Methodology 
+... 
+
+## 🚀   Deployment 
+...
