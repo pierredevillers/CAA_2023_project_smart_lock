@@ -49,13 +49,13 @@ imu0 = imu.IMU() # Acceleration as (x,y,z)
 ################# Initial set up #################
 
 # Cloud setup variables
-project_id = "upbeat-voice-380815"
-cloud_region = "europe-west1"
-registry_id = "cloud_and_advanced_analytics"
-device_id = "M5_core_2"
-jwt = 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2ODU2MDU0MjcsImV4cCI6MTY4NTY2NTQyNywiYXVkIjoidXBiZWF0LXZvaWNlLTM4MDgxNSJ9.q81sYcjuMRJmsdDszTX0x61GpLF9bI8MKSa2NfpIq9mFZ5FXkvO1zYVEFYI3quv7WzRWYFI7nYyatsotBmCyfzr-LxyJzWfTd-v3ORkDntFbWWgHCJJqM_Ro_j2EopY1naK-2zlpc-SYSIv7Y_1r0c6pHOntAGTBF4EiiyUpGS0VT_HVdNFoR2k3_oFgNhOYWoQ63eRcSE0Iyu1_B2j29Ha0lqT4RcPhEUH9qlukQBSgfDP9h3mqt7hD1L2WoWfiKMGu3_aYgKoXGWMqUfRjf8dKYzkultQV25krotqwEiY15doi3fjhNaYOHF3xsi0ejZHNIrmHIacUJHdkO-VHviw0cmjVKRHt8tLJnnLkbmVnqqYsV4Mtw2r4AUbzSkvDDb9d4Cztvr25yFCNlWOOhPb_u7I4mlAyZ2TXAc02tXfAZdXP-9HjswraXdANzP0f5Z1oYo-aeiaDfom3YJ__3goU6P2FyvB6CsgJWMCWHG9zw0DB3SAnI1peHXYiPAt7ddPzV5azw3lyPmc015KenqFDKwzgECcNVOiwTBRcaoPoc_H4QH6Bes2fawX7tSBy24pYXZkAXXYMczHEPJASWhprIn4x20_o6M7THwzlVv0i8mgkmOrVJn5xAp8RuDQ04BPHQt9q4KIoJ-SfGAtKus1QrsBVF6hZlhUr4wq2GeA'
-wifi_ssid = "iot_unil"
-wifi_password = "4u6uch4hpY9pJ2f9"
+project_id = ""
+cloud_region = ""
+registry_id = ""
+device_id = ""
+jwt = ''
+wifi_ssid = ""
+wifi_password = ""
 
 # MQTT setup variables
 client_id = "projects/{}/locations/{}/registries/{}/devices/{}".format(
