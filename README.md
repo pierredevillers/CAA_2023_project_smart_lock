@@ -20,7 +20,7 @@ We used the already existing sensors implemented in the M5 Core 2 device, comple
 After establishing the connection between the device and the Google Cloud Platform (not possible anymore), you need to enter all the necessary information in the main code in python with identifiers, passwords, jwt, and wi-fi setup. Once this done, it is necessary to activate a Twillio account and modify the google cloud function with the needed ids and phone numbers. 
 
 ## ▶️   Video  
-Click 👉 [here]([https://clipchamp.com/watch/HQYIweiTWP3](https://clipchamp.com/watch/HQYIweiTWP3)) to see the video. 
+Click 👉 [here](https://clipchamp.com/watch/HQYIweiTWP3) to see the video. 
 
 
 
