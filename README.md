@@ -21,8 +21,3 @@ After establishing the connection between the device and the Google Cloud Platfo
 
 ## ▶️   Video  
 Click 👉 [here](https://clipchamp.com/watch/HQYIweiTWP3) to see the video. 
-
-
-
-## 📋   LinkedIn Article 
-Click 👉 [here](https://youtu.be/dQw4w9WgXcQ) to read our LinkedIn article.
